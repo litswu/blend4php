@@ -5,7 +5,7 @@ require_once './testConfig.inc';
 
 
 
-class WorkflowsTest extends PHPUnit_Framework_TestCase {
+class WorkflowsTest extends PHPUnit\Framework\TestCase {
 
   /**
    * Intializes the Galaxy object for all of the tests.

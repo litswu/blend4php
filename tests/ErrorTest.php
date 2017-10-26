@@ -9,7 +9,7 @@ require_once "../src/Error.inc";
  */
 
 
-class ErrorTest extends PHPUnit_Framework_TestCase {
+class ErrorTest extends PHPUnit\Framework\TestCase {
 
   /**
    * Tests the setError() and getError() functions.
